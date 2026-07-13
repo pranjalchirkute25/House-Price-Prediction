@@ -85,5 +85,3 @@ This will print exploration/evaluation results to the console and save cleaned d
 - Add cross-validation for more robust performance estimates
 - Hyperparameter tuning and regularization (Ridge/Lasso) to reduce overfitting risk
 
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
